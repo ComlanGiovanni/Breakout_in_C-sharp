@@ -40,6 +40,7 @@
             // imgBall
             // 
             this.imgBall.BackColor = System.Drawing.Color.Black;
+            this.imgBall.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.imgBall.Location = new System.Drawing.Point(535, 332);
             this.imgBall.Name = "imgBall";
             this.imgBall.Size = new System.Drawing.Size(25, 25);
@@ -55,6 +56,7 @@
             // imgBar
             // 
             this.imgBar.BackColor = System.Drawing.Color.White;
+            this.imgBar.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.imgBar.Location = new System.Drawing.Point(250, 620);
             this.imgBar.Name = "imgBar";
             this.imgBar.Size = new System.Drawing.Size(173, 12);
